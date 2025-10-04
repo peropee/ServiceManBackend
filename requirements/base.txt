@@ -17,3 +17,7 @@ gunicorn>=21.2.0
 whitenoise>=6.6.0
 sentry-sdk>=1.40.0
 django_cors_headers
+gunicorn==22.0.0
+dj-database-url==2.2.0  
+whitenoise==6.7.0
+gevent==24.2.1
